@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Higher Signal")
+st.title("Higher Signal AI")
 
 uploaded_file = st.file_uploader(
     "Upload Target Account CSV",
